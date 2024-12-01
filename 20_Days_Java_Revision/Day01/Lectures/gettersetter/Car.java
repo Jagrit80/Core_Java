@@ -19,5 +19,6 @@ public class Car {
         this.fuelLevel = fuelLevel;
         Model = model;
         this.color = color;
+
     }
 }

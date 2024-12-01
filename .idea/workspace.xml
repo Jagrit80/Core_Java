@@ -4,92 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b125c8-2f14-4642-8ded-7441daf0e13e" name="Changes" comment="Removed the old src folder and set up new folder structure: 20_Days_Java_Revision." />
+    <list default="true" id="647d198e-0a25-4bb2-bd51-5f72402198df" name="Changes" comment="Completed Day 02 Java challenges">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Lectures/GetterSettter/Test/GetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Lectures/GetterSettter/Test/GetterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Lectures/gettersetter/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Lectures/gettersetter/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge77/Geometry/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge77/Geometry/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge77/Geometry/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge77/Geometry/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge77/Utils/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge77/Utils/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge78/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge78/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge78/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge78/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge79/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge79/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge79/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/20_Days_Java_Revision/Day01/Practice_Questions/Jagrit/Dewan/Challenge79/TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Lectures/GetterSettter/Test/GetterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Lectures/gettersetter/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge77/Geometry/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge77/Geometry/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge77/Utils/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge78/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge78/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge79/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Days_Java_Revision/Day02/Practice_Questions/Jagrit/Dewan/Challenge79/TestEmployee.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Jagrit80&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jagrit80"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Jagrit80/Core_Java.git&quot;,
-    &quot;accountId&quot;: &quot;d40b9c17-48b1-46c3-a295-e364d842b1c1&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jagrit80/Core_Java.git",
+    "accountId": "015a5d53-8c91-4cd4-ab71-dd50c3112673"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2pRdWMLO93Gc0ZVaGGhd6OF3mJM" />
+  <component name="ProjectId" id="2pUKZJTwqYwe2jcy5hT32F60Mww" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jagrit\Desktop\20_Days_Java_Revision\20_Days_Java_Revision" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2b125c8-2f14-4642-8ded-7441daf0e13e" name="Changes" comment="" />
-      <created>1732732854009</created>
+      <changelist id="647d198e-0a25-4bb2-bd51-5f72402198df" name="Changes" comment="" />
+      <created>1732815270712</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732732854009</updated>
+      <updated>1732815270712</updated>
     </task>
-    <task id="LOCAL-00001" summary="Removed the old src folder and set up new folder structure: 20_Days_Java_Revision.">
+    <task id="LOCAL-00001" summary="Completed Day 02 Java challenges">
       <option name="closed" value="true" />
-      <created>1732733004674</created>
+      <created>1732815688723</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1732733004674</updated>
+      <updated>1732815688723</updated>
     </task>
-    <task id="LOCAL-00002" summary="Removed the old src folder and set up new folder structure: 20_Days_Java_Revision.">
-      <option name="closed" value="true" />
-      <created>1732733071572</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1732733071572</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Removed the old src folder and set up new folder structure: 20_Days_Java_Revision.">
-      <option name="closed" value="true" />
-      <created>1732733334850</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1732733334850</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Removed the old src folder and set up new folder structure: 20_Days_Java_Revision." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed the old src folder and set up new folder structure: 20_Days_Java_Revision." />
+    <MESSAGE value="Completed Day 02 Java challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Day 02 Java challenges" />
   </component>
 </project>
