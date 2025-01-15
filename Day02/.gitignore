@@ -1,13 +1,7 @@
 ### IntelliJ IDEA ###
-<<<<<<< HEAD
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-=======
-
-!out/
-!bin/
->>>>>>> eeeda2f8f96eb9b72b406e41ed4b8635411c105f
 
 ### Eclipse ###
 .apt_generated

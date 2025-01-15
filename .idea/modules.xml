@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -5,4 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/core_java2.iml" filepath="$PROJECT_DIR$/core_java2.iml" />
     </modules>
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20_Days_Java_Revision.iml" filepath="$PROJECT_DIR$/20_Days_Java_Revision.iml" />
+    </modules>
+  </component>
+>>>>>>> eeeda2f8f96eb9b72b406e41ed4b8635411c105f
 </project>
